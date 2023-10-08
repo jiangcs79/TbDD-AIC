@@ -21,4 +21,5 @@ Citation:
 If you use this program for scientific research and intend to publish your findings, we recommend citing the following two papers to express gratitude and support:
 
 Yin, F. L., Jiang, C. S., 2023. An improved study of the time series b-value calculation method based on data-driven approach. Geophysical Journal International, submitted.
+
 Jiang C., Jiang C. S., Yin F. L., et al., 2021a. A new method for calculating b-value of time sequence based on data-driven (TbDD): A case study of the 2021 Yangbi MS6.4 earthquake sequence in Yunnan. Chinese Journal of Geophysics (in Chinese), 64(9): 3126-3134, doi: 10.6038/cjg2021P0385.
