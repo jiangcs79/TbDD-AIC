@@ -3,7 +3,7 @@
 TbDD-AIC is a powerful Matlab tool for calculating b-values in seismology, employing advanced data-driven techniques and Akaice Information Criterion (AIC) values for optimized model selection. Through parallel computation, it significantly enhances processing speed, enabling seismologists to analyze seismic events and assess seismic hazards with greater accuracy.
 
 About the TbDD-AIC Method:
-In seismology, the b-value plays a pivotal role in the analysis of the Magnitude-Frequency Distribution (MFD) of seismic events and seismic hazard assessment. However, the conventional method for computing time-varying b-values involves sliding a fixed-size window with a predetermined number of events and step size. We introduce the TbDD-AIC method, which leverages Akaice Information Criterion (AIC) values for model selection, showing promising performance in objectively establishing computation rules and accurately identifying abrupt changes in b-values.
+In seismology, the b-value plays a pivotal role in the analysis of the Magnitude-Frequency Distribution (MFD) of seismic events and seismic hazard assessment. However, the conventional method for computing time-varying b-values involves sliding a fixed-size window with a predetermined number of events and step size. We introduce the TbDD-AIC method, which leverages Akaike Information Criterion (AIC) values for model selection, showing promising performance in objectively establishing computation rules and accurately identifying abrupt changes in b-values.
 
 Key Advantages:
 Utilizes advanced data-driven techniques for more precise b-value calculations.
