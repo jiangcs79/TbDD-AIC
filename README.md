@@ -20,6 +20,10 @@ Synthetic theoretical seismic catalogs, encompassing theoretical seismic catalog
 Citation:
 If you use this program for scientific research and intend to publish your findings, we recommend citing the following two papers to express gratitude and support:
 
-Yin, F. L., Jiang, C. S., 2023. An improved study of the time series b-value calculation method based on data-driven approach. Geophysical Journal International, submitted.
+Yin, F. L., Jiang, C. S., 2023. An improved study of the time series b-value calculation method based on data-driven approach. Geophysical Journal International, 236(1): 78-87. https://doi.org/10.1093/gji/ggad419.
 
-Jiang C., Jiang C. S., Yin F. L., et al., 2021a. A new method for calculating b-value of time sequence based on data-driven (TbDD): A case study of the 2021 Yangbi MS6.4 earthquake sequence in Yunnan. Chinese Journal of Geophysics (in Chinese), 64(9): 3126-3134, doi: 10.6038/cjg2021P0385.
+Jiang C., Jiang C. S., Yin F. L., et al., 2021. A new method for calculating b-value of time sequence based on data-driven (TbDD): A case study of the 2021 Yangbi MS6.4 earthquake sequence in Yunnan. Chinese Journal of Geophysics (in Chinese), 64(9): 3126-3134, doi: 10.6038/cjg2021P0385.
+
+Si, Z. Y., Jiang, C. S., 2019. Research on parameters calculation of the Ogata-Katsura 1993 model in frequency-magnitude distribution based on data-driven approach. Seismological Research Letters, 90 (3): 1318-1329. https://doi.org/10.1785/0220180372.
+
+Jiang, C. S., Han, L. B., Long, F., et al., 2021. Spatiotemporal heterogeneity of b values revealed by a data-driven approach for June 17, 2019 Ms 6.0, Changning Sichuan, China earthquake sequence, Natural Hazards and Earth System Sciences, 21: 2233-2244, https://doi.org/10.5194/nhess-21-2233-2021.
